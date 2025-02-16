@@ -1,7 +1,7 @@
-# [Sahyog](https://sahyogweb.vercel.app)
+# [AmmuHope](https://ammuhope-frontend.vercel.app)
 
-Sahyog is a crowdfunding/fundraiser platform.
-Check it out live [here](https://sahyogweb.vercel.app).
+AmmuHope is a crowdfunding/fundraiser platform.
+Check it out live [here](https://ammuhope-frontend.vercel.app).
 
 ## Built Using
 
@@ -38,7 +38,7 @@ Check it out live [here](https://sahyogweb.vercel.app).
 - Payment confirmation email notification
 - Submit identity proofs and Bank details for review before transferring funds
 
-## Local Development
+<!-- ## Local Development
 
 ### [Click here](https://github.com/Jaimin25/sahyog/blob/main/DEVELOPERS.md) and follow the steps to setup the project on your device.
 
@@ -62,4 +62,4 @@ https://github.com/Jaimin25/Sahyog/assets/65119631/5e982655-b988-4289-8ced-f437a
 
 #### Making a donation
 
-https://github.com/Jaimin25/Sahyog/assets/65119631/eb4bbd1f-4366-446d-a0b6-948692597e4d
+https://github.com/Jaimin25/Sahyog/assets/65119631/eb4bbd1f-4366-446d-a0b6-948692597e4d -->

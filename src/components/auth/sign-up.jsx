@@ -1,3 +1,5 @@
+/* eslint-disable simple-import-sort/imports */
+/* eslint-disable no-unused-vars */
 import {
   Button,
   Card,
@@ -51,7 +53,7 @@ const SignUpComponent = () => {
     if (data && !error) {
       const user = data.session.user;
       try {
-        const res = await axios.post(`${baseapiurl}/api/auth/sign-up`, {
+        const res = await axios.post(`${baseapiurl}/api/auth/sign-up`, { // 'http://localhost:5172';
           uid: user.id,
           fullname: values.fullname,
           email: values.email,
@@ -64,6 +66,8 @@ const SignUpComponent = () => {
           user.emailVerified = resData.userDetails.emailVerified;
           user.profilePicUrl = resData.userDetails.profilePicUrl;
           saveUserDetails(user);
+          console.log("USR signedup", resData);
+          
 
           navigate('/dashboard');
         } else {

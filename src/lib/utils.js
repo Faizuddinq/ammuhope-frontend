@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 // import CryptoJS from 'crypto-js';
 
 // function encryptValue(val) {
