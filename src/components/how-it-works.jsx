@@ -4,7 +4,7 @@ const HowItWorks = () => {
   return (
     <Card>
       <CardHeader>
-        <Heading size="lg">Here&apos;s how fundraising works on Sahyog</Heading>
+        <Heading size="lg">Here&apos;s how fundraising works on AmmuHope</Heading>
       </CardHeader>
       <CardBody>
         <Box className="space-y-4">
