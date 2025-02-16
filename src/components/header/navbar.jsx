@@ -16,7 +16,7 @@ const Navbar = () => {
               <div className="flex items-center gap-x-1">
                 <HeartHandshake className="h-8 w-8" />
                 <div className="flex flex-col">
-                  <p className="text-3xl">Sahyog</p>
+                  <p className="text-3xl">AmmuHope</p>
                   <p className="text-xs">together we help</p>
                 </div>
               </div>

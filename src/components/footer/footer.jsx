@@ -12,7 +12,7 @@ const Footer = () => (
             <div className="flex items-center gap-x-1">
               <HeartHandshake className="h-8 w-8" />
               <a href="/" className="flex flex-col">
-                <p className="text-3xl">Sahyog</p>
+                <p className="text-3xl">AmmuHope</p>
                 <p className="text-xs">together we help</p>
               </a>
             </div>
@@ -57,7 +57,7 @@ const Footer = () => (
               Blog
             </Button>
             <Button variant="link" colorScheme="teal">
-              Sahyog Stories
+            AmmuHope Stories
             </Button>
             <Button variant="link" colorScheme="teal">
               Newsroom
@@ -94,7 +94,7 @@ const Footer = () => (
           </Stack>
         </div>
         <Text fontSize="sm" color="fg.subtle" className="text-center lg:text-left">
-          &copy; {new Date().getFullYear()} Sahyog, Inc. All rights reserved.
+          &copy; {new Date().getFullYear()} AmmuHope, Inc. All rights reserved.
         </Text>
       </Stack>
     </Container>
