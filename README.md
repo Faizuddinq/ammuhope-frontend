@@ -8,7 +8,7 @@ Check it out live [here](https://ammuhope-frontend.vercel.app).
 - Frontend
 
   - React.js
-  - Cakra UI
+  - Chakra UI
   - TailwindCSS
   - LucidReact Icons
 
